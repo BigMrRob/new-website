@@ -86,7 +86,7 @@ export default function Home() {
           </div>
         </div>
       </div>
-
+      {/* console */}
       <div className="h-[40rem] w-full flex items-center justify-center flex-[.1]">
         <PinContainer
           title="/x.com/devdotdev"
